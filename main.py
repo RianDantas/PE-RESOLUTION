@@ -8,7 +8,7 @@ def saudacao(nome):
 
 '''
 Crie uma função dobro que aceita um 
-número como argumento e retorna o dobro desse número.
+número como argumento e retorna o dobro desse númmero.
 '''
 
 def dobro(numero):
